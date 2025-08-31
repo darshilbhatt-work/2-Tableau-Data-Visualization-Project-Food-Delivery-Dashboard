@@ -1,4 +1,4 @@
-# 2-Tableau-Data-Visualization-Project-Food-Delivery-Dashboard
+# 3-Tableau-Data-Visualization-Project-Food-Delivery-Dashboard
 
 ## 📌 Project Overview
 This project demonstrates **interactive dashboards, storytelling, and actionable insights using Tableau**. The main aim of this project is to demonstrate a Food Delivery Daashboard highlighting key metrics and dimensions of Food Delivery Company. Through this project I got to deal with data dealing into Food Delivery industry and how do companies in real world operate.
